@@ -1,0 +1,12 @@
+[package]
+name = "bnc"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2"
+xml-rs = "0.8.4"
+mysql = "23.0.1"
+regex = "1"
